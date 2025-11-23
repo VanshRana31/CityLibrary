@@ -1,0 +1,6 @@
+# City Library Digital Management System
+Simple Java project for B.Tech assignment.
+## Run
+Compile: javac src/*.java
+Run: java -cp src Main
+
